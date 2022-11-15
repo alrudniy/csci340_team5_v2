@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\subte\\340MVCGit\\csci340_team5_v2\\MVCteam5\\MVCteam5\\MVCteam5.csproj": {}
+    "/Users/zeus/Desktop/CSCI340/MVCproject/csci340_team5_v2/MVCteam5/MVCteam5/MVCteam5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\subte\\340MVCGit\\csci340_team5_v2\\MVCteam5\\MVCteam5\\MVCteam5.csproj": {
+    "/Users/zeus/Desktop/CSCI340/MVCproject/csci340_team5_v2/MVCteam5/MVCteam5/MVCteam5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\subte\\340MVCGit\\csci340_team5_v2\\MVCteam5\\MVCteam5\\MVCteam5.csproj",
+        "projectUniqueName": "/Users/zeus/Desktop/CSCI340/MVCproject/csci340_team5_v2/MVCteam5/MVCteam5/MVCteam5.csproj",
         "projectName": "MVCteam5",
-        "projectPath": "C:\\Users\\subte\\340MVCGit\\csci340_team5_v2\\MVCteam5\\MVCteam5\\MVCteam5.csproj",
-        "packagesPath": "C:\\Users\\subte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\subte\\340MVCGit\\csci340_team5_v2\\MVCteam5\\MVCteam5\\obj\\",
+        "projectPath": "/Users/zeus/Desktop/CSCI340/MVCproject/csci340_team5_v2/MVCteam5/MVCteam5/MVCteam5.csproj",
+        "packagesPath": "/Users/zeus/.nuget/packages/",
+        "outputPath": "/Users/zeus/Desktop/CSCI340/MVCproject/csci340_team5_v2/MVCteam5/MVCteam5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\subte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/zeus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +37,38 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{F28285A6-4CE8-45BA-B116-B5761E713281}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MVCteam5 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Jaewoo_HelloWorld/Index.cshtml">
+    <Files>
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Migrations/20221115061725_InitialCreate.cs" />
+      <File FileName="Migrations/20221115061725_InitialCreate.Designer.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="bin/Debug/net6.0/appsettings.json" />
+      <File FileName="Views/Movies/Create.cshtml" />
+      <File FileName="Models/Jaewoo_Movie.cs" />
+      <File FileName="Views/Movies/Delete.cshtml" />
+      <File FileName="Views/Movies/Details.cshtml" />
+      <File FileName="Views/Movies/Edit.cshtml" />
+      <File FileName="Views/Movies/Index.cshtml" Line="1" Column="43" />
+      <File FileName="Views/Jaewoo_HelloWorld/Index.cshtml" Line="5" Column="7" />
+      <File FileName="Controllers/MoviesController.cs" />
+      <File FileName="Data/MvcMovieContext.cs" />
+      <File FileName="Migrations/MvcMovieContextModelSnapshot.cs" />
+      <File FileName="obj/Debug/net6.0/MVCteam5.GeneratedMSBuildEditorConfig.editorconfig" />
+      <File FileName="Program.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Models/ErrorViewModel.cs" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Controllers/Jaewoo_HelloWorldController.cs" Line="20" Column="25" />
+      <File FileName="Views/Jaewoo_HelloWorld/Welcome.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVCteam5" expanded="True">
+            <Node name="MVCteam5" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20221115061725_InitialCreate.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Jaewoo_HelloWorld" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
